@@ -1,0 +1,1 @@
+This notebook demonstrates the end-to-end implementation of Linear Regression from scratch using Batch Gradient Descent. The model's performance and learned parameters are then compared with those obtained from scikit-learn's Linear Regression implementation.
